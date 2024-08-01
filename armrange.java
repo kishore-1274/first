@@ -1,7 +1,7 @@
 public class armrange {
     public static void main (String args[]){
         int rem=0;
-        for(int start=1;start<=200;start++)
+        for(int start=1;start<=350;start++)
         {
             int temp=start;
             int sum=0;
